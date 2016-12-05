@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\cc.ai\\android\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\cc.ai\\android\\HelloWorld\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\cc.ai\\android\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_search.png",
+        "source": "D:\\cc.ai\\android\\HelloWorld\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    }
+]
